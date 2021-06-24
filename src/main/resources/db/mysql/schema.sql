@@ -1,4 +1,3 @@
-CREATE DATABASE IF NOT EXISTS devc_petclinic;
 
 ALTER DATABASE devc_petclinic
   DEFAULT CHARACTER SET utf8
